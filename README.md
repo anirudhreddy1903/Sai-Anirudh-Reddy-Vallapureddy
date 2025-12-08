@@ -100,8 +100,7 @@ Stack: *Kafka, GPT-4, Monitoring Dashboards*
 ## 🌐 **My Portfolio**
 
 🔗 **Live Portfolio Website:**
-*(Replace below link if deployed on Vercel)*
-[https://your-portfolio-url/](https://your-portfolio-url/)
+[https://sai-anirudh-ai-portfolio.vercel.app/](https://sai-anirudh-ai-portfolio.vercel.app/)
 
 This portfolio includes:
 
