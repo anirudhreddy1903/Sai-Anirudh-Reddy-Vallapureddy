@@ -102,14 +102,6 @@ Stack: *Kafka, GPT-4, Monitoring Dashboards*
 🔗 **Live Portfolio Website:**
 [https://sai-anirudh-ai-portfolio.vercel.app/](https://sai-anirudh-ai-portfolio.vercel.app/)
 
-This portfolio includes:
-
-* Neon futuristic UI
-* Gradient mesh animations
-* Skill clouds
-* AI project cards
-* Downloadable resume
-
 ---
 
 ## 📫 **Let’s Connect**
